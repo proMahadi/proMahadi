@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about crafting efficient, scalable, and use
 Here are the technologies I work with:
 
 ### **Frontend**
-- **Languages**: JavaScript (ES6+), TypeScript  
+- **Languages**: JavaScript (ES6+) 
 - **Frameworks & Libraries**: React, Next.js, Redux, Tailwind CSS  
 - **Styling**: SCSS, CSS-in-JS, Styled Components  
 
