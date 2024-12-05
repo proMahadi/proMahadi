@@ -4,7 +4,7 @@
 Welcome to my GitHub! I'm passionate about crafting efficient, scalable, and user-friendly digital solutions. Whether it's developing robust web applications, experimenting with cutting-edge technologies, or collaborating on open-source projects, I love turning ideas into reality.
 
 ## 🖥️ **About Me**
-- 🌐 **Portfolio**: [mahadiahmed.netlify.app](https://mahadiahmed.netlify.app/)  
+- 🌐 **Portfolio**: [mahadiahmed.vercel.app](https://mahadiahmed.vercel.app/)  
 - 🎯 **Skills**: JavaScript, React, Next.js, SCSS, Tailwind CSS, Git, and more!  
 - 🌱 **Currently Learning**: Advanced Next.js features, React Query, and state management strategies.  
 - 🤝 **Open to Collaborations**: Love working on meaningful projects that solve real-world problems.  
