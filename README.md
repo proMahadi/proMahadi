@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about crafting efficient, scalable, and use
 
 ## 🖥️ **About Me**
 - 🌐 **Portfolio**: [mahadiahmed.vercel.app](https://mahadiahmed.vercel.app/)  
-- 🎯 **Skills**: JavaScript, TypeScript, React, Next.js, SCSS, Tailwind CSS, Git, and more!  
+- 🎯 **Skills**: JavaScript, TypeScript, React, Vue, Next.js, SCSS, Tailwind CSS, Git, and more!  
 - 🌱 **Currently Learning**: Advanced Next.js features, React Query, and state management strategies.  
 - 🤝 **Open to Collaborations**: Love working on meaningful projects that solve real-world problems.  
 
@@ -14,7 +14,7 @@ Here are the technologies I work with:
 
 ### **Frontend**
 - **Languages**: JavaScript (ES6+) 
-- **Frameworks & Libraries**: React, Next.js, Redux, Tailwind CSS, ShadcnUI, AceternityUI  
+- **Frameworks & Libraries**: React, Vue, Next.js, Redux, Tailwind CSS, ShadcnUI, AceternityUI  
 - **Styling**: SCSS, CSS-in-JS, Styled Components  
 
 ### **Tools & Platforms**
