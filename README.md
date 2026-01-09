@@ -15,7 +15,7 @@ Here are the technologies I work with:
 ### **Frontend**
 - **Languages**: JavaScript (ES6+) 
 - **Frameworks & Libraries**: React, Vue, Next.js, Redux, Tailwind CSS, ShadcnUI, AceternityUI  
-- **Styling**: SCSS, CSS-in-JS, Styled Components  
+- **Styling**: SCSS, CSS-in-JS  
 
 ### **Tools & Platforms**
 - **Version Control**: Git, GitHub  
